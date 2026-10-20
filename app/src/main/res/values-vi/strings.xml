@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_add">Thêm</string>
+    <string name="action_save">Lưu</string>
+    <string name="action_cancel">Huỷ</string>
+    <string name="action_delete">Xoá</string>
+    <string name="action_back">Quay lại</string>
+    <string name="action_ok">OK</string>
+
+    <string name="todo_title">Việc cần làm</string>
+    <string name="todo_add_title">Việc mới</string>
+    <string name="todo_edit_title">Sửa việc</string>
+    <string name="todo_input_hint">Bạn cần làm gì?</string>
+    <string name="todo_filter_all">Tất cả</string>
+    <string name="todo_filter_active">Đang làm</string>
+    <string name="todo_filter_done">Đã xong</string>
+    <string name="todo_empty">Chưa có việc nào</string>
+    <string name="todo_empty_hint">Nhấn + để thêm việc đầu tiên</string>
+    <string name="todo_clear_done">Xoá việc đã xong</string>
+    <string name="todo_clear_done_confirm">Xoá tất cả việc đã xong?</string>
+    <string name="todo_deleted">Đã xoá</string>
+    <string name="todo_undo">Hoàn tác</string>
+    <plurals name="todo_remaining">
+        <item quantity="other">Còn %d việc</item>
+    </plurals>
+
+    <string name="setting_title">Cài đặt</string>
+    <string name="setting_appearance">Giao diện</string>
+    <string name="setting_theme_system">Theo hệ thống</string>
+    <string name="setting_theme_light">Sáng</string>
+    <string name="setting_theme_dark">Tối</string>
+    <string name="setting_dynamic_color">Màu động</string>
+    <string name="setting_dynamic_color_desc">Lấy màu theo hình nền (Android 12+)</string>
+    <string name="setting_about">Thông tin</string>
+    <string name="setting_version">Phiên bản</string>
+
+    <string name="error_title">Đã có lỗi</string>
+    <string name="error_no_connection">Không có kết nối mạng</string>
+    <string name="error_timeout">Hết thời gian chờ</string>
+    <string name="error_network">Lỗi mạng</string>
+    <string name="error_unauthenticated">Phiên đăng nhập đã hết hạn</string>
+    <string name="error_forbidden">Bạn không có quyền truy cập</string>
+    <string name="error_server">Lỗi máy chủ (%1$d)</string>
+    <string name="error_http">Yêu cầu thất bại (%1$d)</string>
+    <string name="error_serialization">Phản hồi không hợp lệ</string>
+    <string name="error_unexpected">Lỗi không xác định</string>
+</resources>

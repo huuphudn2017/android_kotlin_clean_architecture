@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+app/key.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+/.cxx/
+.externalNativeBuild/
+captures/
+*.hprof
+
+# APK / bundle
+*.apk
+*.aab
+app/release/
+app/debug/
+
+# Keystore
+*.jks
+*.keystore
+
+# Kotlin
+*.kotlin_module
+.kotlin/
+
+# Misc
+.DS_Store
+*.swp
+*.orig
+*.bak
+*.tmp
+*.log
